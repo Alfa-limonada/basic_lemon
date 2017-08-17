@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway:300');
+
+body {
+  background-color: #FAFAFA;
+  margin: 0px;  
+  }
+
+header {
+  background-color: #212121;
+  background-image: url("http://res.cloudinary.com/alfa-limonada22/image/upload/v1502942280/darkness_hywmdf.png");
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: white;
+  margin-bottom: 50px;
+  }
+
+h1, h2 {
+  font-family: "Raleway", sans-serif;
+  }
+
+p, ol {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+section {
+  float: left;
+  width: 70%;
+ }
+
+aside {
+  float: right;
+  width: 25%;
+  margin-bottom: 50px;
+ }
+.text-aside{
+  text-align: center;
+  color: #F06292;
+}
+span {
+  color: #EEFF41;
+}
+
+footer {
+  clear: both;
+  background-color: #424242;
+  padding: 50px 0;
+  text-align: right;
+  font-size: 13px;
+  color: #F06292;
+  
+}
+
+img {
+  border-radius: 50%;
+}
